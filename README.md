@@ -1,6 +1,8 @@
 # Creating an Amazon clone website involves replicating several key features and functionalities of the original Amazon platform. Here's a description of what an Amazon clone webpage might entail:
 <br>
 Welcome to Our Amazon Clone Website
+<br><br>
+![gitHub.mark](https://github.com/Lucky6203/amazon-clone/blob/main/Screenshot%202024-01-01%20185642.png****)
 
 
 Experience the convenience of online shopping with our Amazon-inspired platform. Our website offers a user-friendly interface designed to provide an extensive range of products and a seamless shopping experience.
